@@ -1,4 +1,5 @@
 # 📝 Task Tracker CLI
+Project URL:https://github.com/joshnasatwika/Task-Tracker-CLI
 
 A simple command-line Python application to manage your to-do list using a JSON file.
 
@@ -66,8 +67,7 @@ Open your terminal in PyCharm and run:
 git add README.md
 git commit -m "Add README with usage instructions"
 git push
-
-Project URL:https://github.com/joshnasatwika/Task-Tracker-CLI
+git clone https://github.com/joshnasatwika/Task-Tracker-CLI.git
 
 
 
